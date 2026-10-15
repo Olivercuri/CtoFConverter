@@ -9,7 +9,7 @@ public class Main {
         boolean done = false;
 
         do {
-            System.out.print("Enter temperature in Celsius: ");
+            System.out.print("Enter the temperature in Celsius: ");
 
             if (in.hasNextDouble()) {
                 celsius = in.nextDouble();
